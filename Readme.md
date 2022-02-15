@@ -1,6 +1,6 @@
 # Create a 3-D model using photogrammetry techniques
  
-**Present project shows 3-D model using photogrammetry**
+**Present project shows 3-D model using photogrammetry I took pictures of my laptop. The quality isnt good**
 
 
 ### **Description**
